@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anaya Choudhari</h1>
-<h3 align="center">A third year Computer Engineering Student at KJ Somiaya College of Engineering, Mumbai pursuing my bachelor's in Computer Engineering</h3>
+<h3 align="center">A final year Computer Engineering Student at KJ Somiaya College of Engineering, Mumbai pursuing my bachelor's in Computer Engineering</h3>
 
 - 🔭 I’m currently working on **DSA & skill building.**
 
