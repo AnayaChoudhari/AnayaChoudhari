@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DSA & skill building.**
 
-- 🌱 I’m currently learning **Machine Learning and Blockchain Technology.**
+- 🌱 I’m currently learning **Natuaral Language Processing, Deep Learning and Blockchain Technology.**
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
