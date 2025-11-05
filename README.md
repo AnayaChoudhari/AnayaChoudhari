@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anaya Choudhari</h1>
-<h3 align="center">A final year Computer Engineering Student at KJ Somiaya College of Engineering, Mumbai pursuing my bachelor's in Computer Engineering</h3>
+<h3 align="center">First-year Master's student in Computer and Information Science at the University of Pennsylvania</h3>
 
-- 🔭 I’m currently working on **DSA & skill building.**
+- 🔭 I’m currently working on **DSA, full-stack projects, AI applications, and skill building**.
 
-- 🌱 I’m currently learning **Natuaral Language Processing, Deep Learning and Blockchain Technology.**
+- ⭐ My core interests include **full-stack development, SQL/NoSQL databases, artificial intelligence, and big data analytics**.
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
